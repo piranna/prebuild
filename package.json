@@ -5,7 +5,9 @@
   "scripts": {
     "test": "tape test && npm run audit && npm run lint",
     "audit": "nsp check",
-    "lint": "standard"
+    "lint": "standard",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "keywords": [
     "prebuilt",
@@ -33,7 +35,8 @@
     "npmlog": "^4.0.1",
     "rc": "^1.0.3",
     "tar-stream": "^1.2.1",
-    "xtend": "^4.0.1"
+    "xtend": "^4.0.1",
+    "snyk": "^1.189.0"
   },
   "devDependencies": {
     "a-native-module": "^1.0.0",
@@ -61,5 +64,6 @@
   "bugs": {
     "url": "https://github.com/mafintosh/prebuild/issues"
   },
-  "homepage": "https://github.com/mafintosh/prebuild"
+  "homepage": "https://github.com/mafintosh/prebuild",
+  "snyk": true
 }
