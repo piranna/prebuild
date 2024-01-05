@@ -32,7 +32,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [piranna/prebuild](https://github.com/piranna/prebuild)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|18<br/>Tools used|12/27/23 <br/>Report generated|
+|19<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -121,9 +121,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (10)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (11)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (10)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (11)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -136,6 +136,7 @@ Full tech stack [here](/techstack.md)
 |[rc](https://www.npmjs.com/rc)|v1.0.3|07/25/15|Mathias Buus |BSD-2-Clause,MIT,Apache-2.0|N/A|
 |[rimraf](https://www.npmjs.com/rimraf)|v2.4.2|07/31/15|LM |ISC|N/A|
 |[standard](https://www.npmjs.com/standard)|v8.6.0|11/29/16|Lukas Geiger |MIT|N/A|
+|[tape](https://www.npmjs.com/tape)|v4.0.1|05/16/16|Lars-Magnus Skog |MIT|N/A|
 |[tar-stream](https://www.npmjs.com/tar-stream)|v1.2.1|01/19/16|Julian Gruber |MIT|N/A|
 
 <br/>
